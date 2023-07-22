@@ -1,2 +1,2 @@
-# Website-sya
+# folio-sya
 Website portofolio sederhana
